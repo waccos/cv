@@ -22,7 +22,7 @@ color: #006a71;
 font-family: 'Caveat', cursive;
 font-size: 2rem;
 margin-top: auto;
-padding-top: 20px;
+padding-top: 2%;
 }
 
 h3
@@ -96,34 +96,34 @@ a:hover
 {
 background-color: #ecf4f3;
 position: relative;
-padding-bottom: 40px;
+padding-bottom: 2%;
 }
 
 .middle
 {
 background-color: #68b0ab;
-padding: 40px;
+padding: 4%;
 position: relative;
 }
 
 .bottom
 {
 background-color: #006a71;
-padding: 40px;
+padding: 4%;
 position: relative;
 }
 
 .contact
 {
 background-color: #68b0ab;
-padding: 40px;
+padding: 4%;
 position: relative;
 }
 
 .footer
 {
 background-color: #ecf4f3;
-padding-top: 10px;
+padding-top: 2%;
 }
 
 
@@ -136,6 +136,11 @@ padding-bottom: 40px;
 {
   border-radius: 50%;
   height: 120px;
+}
+
+.skill-top
+{
+  padding: 2%;
 }
 
 .skill-row
