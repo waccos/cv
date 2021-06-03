@@ -21,7 +21,7 @@ h2
 color: #006a71;
 font-family: 'Caveat', cursive;
 font-size: 2rem;
-margin-top: auto;
+margin: 20px auto 0 auto;
 padding-top: 2%;
 }
 
@@ -30,14 +30,14 @@ h3
 color: #68b0ab;
 font-family: 'Caveat', cursive;
 font-size: 2rem;
-margin-top: auto;
+margin: 20px auto 0 auto;
 }
 
 h4
 {
 color: #006a71;
 font-weight: normal;
-margin: auto auto auto 0px;
+margin: 20px auto 0 auto;
 }
 
 p
