@@ -3,7 +3,7 @@ body
 {
 background-color: #ecf4f3;
 font-family: sans-serif;
-font-size: 1rem;
+font-size: 1.2rem;
 margin: 0;
 text-align: center;
 }
@@ -22,6 +22,7 @@ color: #006a71;
 font-family: 'Caveat', cursive;
 font-size: 2rem;
 margin-top: auto;
+padding-top: 20px;
 }
 
 h3
@@ -36,7 +37,7 @@ h4
 {
 color: #006a71;
 font-weight: normal;
-margin-top: auto auto auto 0px;
+margin: auto auto auto 0px;
 }
 
 p
@@ -95,26 +96,27 @@ a:hover
 {
 background-color: #ecf4f3;
 position: relative;
+padding-bottom: 40px;
 }
 
 .middle
 {
 background-color: #68b0ab;
-padding: 20px;
+padding: 40px;
 position: relative;
 }
 
 .bottom
 {
 background-color: #006a71;
-padding: 20px;
+padding: 40px;
 position: relative;
 }
 
 .contact
 {
 background-color: #68b0ab;
-padding: 60px;
+padding: 40px;
 position: relative;
 }
 
@@ -139,7 +141,7 @@ padding-bottom: 40px;
 .skill-row
 {
   margin: auto;
-  width: 50%
+  width: 80%;
 }
 
 .BUTTON_NCB {
