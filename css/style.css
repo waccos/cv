@@ -43,7 +43,7 @@ p, li
 {
 color: #ecf4f3;
 width: 40%;
-font-size: 1rem;
+list-style-type: none;
 margin: auto;
 }
 
