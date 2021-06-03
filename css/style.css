@@ -39,11 +39,10 @@ font-weight: normal;
 margin-top: auto auto auto 0px;
 }
 
-p, li
+p
 {
 color: #ecf4f3;
 width: 40%;
-list-style-type: none;
 margin: auto;
 }
 
