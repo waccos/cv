@@ -131,7 +131,7 @@ padding-top: 2%;
 {
   border-color: #68b0ab;
   border-width: 2.2px;
-  border-style: dotted double;
+  border-style: double dotted;
   border-radius: 50%;
   height: 120px;
 }
