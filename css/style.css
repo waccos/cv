@@ -127,16 +127,18 @@ background-color: #ecf4f3;
 padding-top: 2%;
 }
 
+.profilePicture
+{
+  border-color: #68b0ab;
+  border-width: 2.2px;
+  border-style: dotted double;
+  border-radius: 50%;
+  height: 120px;
+}
 
 .sumup{
 color: #68b0ab;
 padding-bottom: 40px;
-}
-
-.profilePicture
-{
-  border-radius: 50%;
-  height: 120px;
 }
 
 .skill-top
